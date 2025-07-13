@@ -111,6 +111,18 @@ unfil_exposure, unfil_lambda0 = stage_two_fama_macbeth(df_test_assets, unfil_bet
 ###################################################################################
 ######################### Optional: visualize the results:#########################
 ###################################################################################
+print("\n### RESULTS ###")
+print("Filtered Consumption Data:")
+print("Price of Risk (slope/lambda):")
+print(fil_exposure)
+print("Return Unexplained by Factor Model (Intercept):")
+print(fil_lambda0)
+print("\nUnfiltered Consumption Data:")
+print("Price of Risk (slope/lambda):")
+print(unfil_exposure)
+print("Return Unexplained by Factor Model (Intercept):")
+print(unfil_lambda0)
+print()
 # filtered
 plot_second_stage_result_from_values(
     fil_beta_values,
@@ -127,10 +139,7 @@ plot_second_stage_result_from_values(
     unfil_lambda0,
     "unfiltered"
 )
-
-print(fil_exposure, fil_lambda0)
-print(unfil_exposure, unfil_lambda0)
-
+print()
 ###################################################################################
 ################################### Optional 2: ###################################
 ###################################################################################
