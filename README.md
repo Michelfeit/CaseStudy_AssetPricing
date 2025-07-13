@@ -4,7 +4,7 @@
 
 Dieses Projekt entstand in Zusammenarbeit mit 
 
-Nikolas Beer, Marlon Fuderer und Christoph Michelfeit
+Nikolas Beer (uisxa), Marlon Fuderer (uisag) und Christoph Michelfeit (uwzju)
 
 ## 🛠 Installation
 
