@@ -1,4 +1,4 @@
-# Fallstudie: Asset PRicing without Garbage
+# Fallstudie: Asset Pricing without Garbage
 
 [Link zum Paper](https://onlinelibrary.wiley.com/doi/10.1111/jofi.12438)
 
