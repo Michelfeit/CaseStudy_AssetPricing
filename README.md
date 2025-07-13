@@ -6,5 +6,15 @@ Dieses Projekt entstand in Zusammenarbeit mit
 
 Nikolas Beer, Marlon Fuderer und Christoph Michelfeit
 
+## 🛠 Installation
 
+### 1. Klonen des Repositories
 
+```bash
+git clone https://github.com/Michelfeit/CaseStudy_AssetPricing.git
+cd CaseStudy_AssetPricing
+```
+### 1. Installieren von Requirements
+```bash
+pip install -r requirements.txt
+```
